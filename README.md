@@ -1,11 +1,11 @@
 # 💫About Me :
-##Hello everyone!<br/>
-##My name is Tien, I'm a Web Developer!<br/>
+## Hello everyone!<br/>
+## My name is Tien, I'm a Web Developer!<br/>
 I'm a Motivated Software Engineer with a strong foundation in React, .NET and RESTful APIs. Passionate about clean code, UI/UX, and collaborating in Agile teams to deliver impactful products.<br/>
-Short-Term Goals:<br/>
+### Short-Term Goals:<br/>
 Join a modern engineering team to deepen knowledge in React, TypeScript, and RESTful APIs.<br/>
 Apply Clean Architecture and DevOps practices in real-world systems.<br/>
-Long-Term Goals:<br/>
+### Long-Term Goals:<br/>
 Grow into a senior full-stack engineer with expertise in building scalable, high-performance web applications.<br/>
 Mentor junior developers and lead impactful projects.<br/>
 
