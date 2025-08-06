@@ -1,6 +1,14 @@
 # 💫About Me :
-Hello everyone!
-My name is Tien
+Hello everyone!<br/>
+My name is Tien, I'm a Web Developer!<br/>
+I'm a Motivated Software Engineer with a strong foundation in React, .NET and RESTful APIs. Passionate about clean code, UI/UX, and collaborating in Agile teams to deliver impactful products.<br/>
+Short-Term Goals:<br/>
+Join a modern engineering team to deepen knowledge in React, TypeScript, and RESTful APIs.<br/>
+Apply Clean Architecture and DevOps practices in real-world systems.<br/>
+Long-Term Goals:<br/>
+Grow into a senior full-stack engineer with expertise in building scalable, high-performance web applications.<br/>
+Mentor junior developers and lead impactful projects.<br/>
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Junn.Nguy3n/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tiennguyen002) 
